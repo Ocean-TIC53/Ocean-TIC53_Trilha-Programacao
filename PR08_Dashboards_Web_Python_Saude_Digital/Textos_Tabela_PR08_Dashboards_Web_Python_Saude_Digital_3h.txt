@@ -1,0 +1,30 @@
+TÍTULO DO EVENTO
+Geração de Dashboards Web com Python para Saúde Digital
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso prático de Python aplicado à geração automática de páginas Web em Saúde Digital. A partir de um arquivo CSV com dados totalmente sintéticos, os participantes irão ler e organizar registros, calcular indicadores técnicos simples e preencher um template HTML/CSS fornecido, produzindo um dashboard estático que pode ser aberto diretamente no navegador. O foco é compreender o fluxo dados -> Python -> HTML/CSS -> navegador. O curso não utiliza JavaScript, React, Flask, Django, backend ou servidor Web e não exige participação prévia no curso de HTML/CSS.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Arquitetura de geração de uma página Web estática com Python;
+- Leitura de CSV com csv.DictReader;
+- Organização de registros em listas e dicionários;
+- Contagens e indicadores técnicos simples a partir dos dados;
+- Geração de cartões e linhas de tabela HTML com Python;
+- Uso de funções, laços, join e placeholders em templates;
+- Uso de html.escape ao inserir conteúdo textual no HTML;
+- Salvamento de dashboard.html em UTF-8 e visualização no navegador;
+- Separação entre dados, lógica Python e apresentação HTML/CSS;
+- Diferença entre página estática regenerada e aplicação Web dinâmica;
+- Privacidade, acessibilidade e uso exclusivo de dados sintéticos.
+
+REQUISITOS
+Não é necessário ter cursado o PR-07. Recomenda-se familiaridade básica com Python (variáveis, listas/dicionários, laços e funções), mas o curso utiliza notebook e template fornecidos pelo instrutor. É necessário computador com navegador e acesso à Internet para uso do Google Colab; não é necessária instalação local de Python ou servidor Web.
+
+PÚBLICO-ALVO
+Pode ser deixado em branco caso seja adotado o público-alvo padrão do Ocean. Se for desejável explicitar: "Estudantes, profissionais de saúde e tecnologia e interessados em aplicações de Python para automação e visualização Web de dados de Saúde Digital."

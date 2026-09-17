@@ -1,0 +1,29 @@
+TÍTULO DO EVENTO
+Fundamentos de Dados em Saúde Digital com Python e Pandas
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso introdutório e prático de manipulação de dados tabulares em Saúde Digital com Python e Pandas. A partir de um conjunto de dados sintéticos de um wearable, os participantes irão carregar um arquivo CSV, conhecer a estrutura de um DataFrame, selecionar e filtrar registros, identificar valores ausentes e problemas de tipo e produzir estatísticas descritivas e agrupamentos básicos. O exemplo dá continuidade aos cursos anteriores da trilha, mas o dataset será fornecido pronto para permitir a participação de quem possuir conhecimentos equivalentes de Python.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Introdução ao Pandas e ao conceito de DataFrame;
+- Leitura de dados em CSV com read_csv();
+- Exploração inicial com head(), tail(), shape, columns, info() e dtypes;
+- Seleção de colunas e filtragem de linhas;
+- Identificação de valores ausentes com isna();
+- Tratamento introdutório com dropna() e fillna();
+- Conversão de tipos com astype() e pd.to_numeric();
+- Estatística descritiva com describe(), mean(), min(), max() e value_counts();
+- Agrupamentos básicos com groupby();
+- Cuidados de qualidade, privacidade e limites de interpretação de dados de saúde.
+
+REQUISITOS
+Conhecimentos básicos de Python, incluindo variáveis, condicionais, laços, funções, listas e dicionários. Recomenda-se participação prévia no PR-02 - Aprendendo a Programar em Python para Saúde Digital ou conhecimentos equivalentes. É necessário computador com navegador e acesso à Internet.
+
+PÚBLICO-ALVO
+Estudantes, profissionais de saúde e tecnologia e interessados em organizar, manipular e analisar dados tabulares de Saúde Digital utilizando Python e Pandas.

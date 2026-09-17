@@ -1,0 +1,27 @@
+TÍTULO DO EVENTO
+Lógica de Programação Aplicada à Saúde com Scratch
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso introdutório e prático para quem deseja iniciar na programação sem experiência prévia. Utilizando o Scratch, os participantes aprenderão os fundamentos do pensamento computacional e da lógica de programação por meio de blocos visuais, reduzindo a barreira inicial da sintaxe. Ao longo do encontro, os conceitos serão aplicados à construção de um protótipo simples relacionado à saúde digital, utilizando exclusivamente dados fictícios ou sintéticos. O curso prepara o participante para a continuidade da trilha em programação textual, especialmente Python.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Pensamento computacional, algoritmos e sequência de instruções;
+- Ambiente Scratch: palco, atores, eventos e interação com o usuário;
+- Variáveis, entrada de dados e operadores;
+- Estruturas condicionais (se/se-senão);
+- Estruturas de repetição;
+- Testes e depuração de programas simples;
+- Construção de um protótipo introdutório aplicado à saúde digital;
+- Correspondência básica entre blocos Scratch e estruturas utilizadas em Python.
+
+REQUISITOS
+Não é necessário conhecimento prévio de programação. São suficientes noções básicas de uso de computador e navegador.
+
+PÚBLICO-ALVO
+Pode ser deixado em branco caso seja adotado o público-alvo padrão do Ocean. Se for desejável explicitar: "Estudantes, profissionais de saúde e tecnologia e interessados em geral, especialmente iniciantes em programação."

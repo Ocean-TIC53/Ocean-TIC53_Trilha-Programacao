@@ -1,0 +1,29 @@
+TÍTULO DO EVENTO
+Aprendendo a Programar em Python para Saúde Digital
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso introdutório e prático de Python contextualizado em Saúde Digital. A partir de um wearable simulado, os participantes irão traduzir para uma linguagem textual os conceitos de lógica trabalhados visualmente no Scratch, criando pequenos programas com variáveis, operadores, decisões, repetições, funções e coleções. O encontro utiliza Google Colab, sem necessidade de instalação local, e enfatiza testes e depuração. Os dados e limites usados nos exercícios são sintéticos e exclusivamente didáticos.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Uso do Google Colab e execução de programas Python;
+- Variáveis e tipos básicos: int, float, str e bool;
+- Entrada, saída e conversão de tipos;
+- Operadores aritméticos, relacionais e lógicos;
+- Estruturas de decisão com if, elif e else;
+- Estruturas de repetição com for e introdução a while;
+- Listas e dicionários;
+- Funções simples com parâmetros e retorno;
+- Testes de fronteira e depuração básica;
+- Aplicação dos fundamentos em um exemplo de Saúde Digital com dados sintéticos.
+
+REQUISITOS
+Recomenda-se ter participado do curso Lógica de Programação Aplicada à Saúde com Scratch ou possuir noções equivalentes de lógica de programação. É necessário computador com navegador e acesso à Internet.
+
+PÚBLICO-ALVO
+Estudantes, profissionais de saúde e tecnologia e demais interessados em iniciar a programação em Python com aplicações introdutórias em Saúde Digital.

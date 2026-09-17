@@ -1,0 +1,27 @@
+# Arquivos temporários do LibreOffice / Microsoft Office
+.~lock.*
+~$*
+*.tmp
+
+# Backups de editores
+*~
+*.bak
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Python, caso apareçam scripts posteriormente
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDEs / editores
+.idea/
+.vscode/
+
+# Arquivos temporários diversos
+*.log

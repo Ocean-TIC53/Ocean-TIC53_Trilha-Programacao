@@ -1,0 +1,29 @@
+TÍTULO DO EVENTO
+Monitoramento de Dados de Saúde em Tempo Real com Python
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso prático de Python aplicado à saúde digital no qual os participantes irão trabalhar com dados de sensores em atualização contínua utilizando o Google Colab. A partir de uma fonte simulada e, quando disponível, de um sistema real de aquisição, serão exploradas a leitura e organização de pacotes de dados, a construção de gráficos temporais e a implementação de verificações simples de qualidade. Durante a atividade, poderão ser introduzidos ruídos, picos, valores inválidos e falhas de comunicação para que os participantes observem como o software identifica e sinaliza essas condições. O foco é programação e monitoramento técnico dos dados, sem finalidade de diagnóstico clínico.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Arquitetura básica de monitoramento: sensor, publicador, serviço em nuvem e aplicação Python;
+- Uso do Google Colab sem instalação local de Python;
+- Leitura de dados estruturados em dicionários e listas;
+- Timestamps, frequência de amostragem e números de sequência;
+- Organização de uma janela temporal de dados;
+- Visualização de sinais/variáveis com Matplotlib;
+- Verificação de perda de pacotes, ausência de atualização e dados inválidos;
+- Identificação didática de picos, valores extremos e outras anomalias técnicas;
+- Registro dos dados em CSV e realização de testes;
+- Diferença entre alerta de qualidade técnica e interpretação clínica.
+
+REQUISITOS
+Conhecimentos básicos de Python, incluindo variáveis, estruturas condicionais, laços, funções, listas e dicionários. Recomenda-se participação prévia no curso PR-02 - Aprendendo a programar em Python ou conhecimentos equivalentes. É necessário computador com navegador e acesso à Internet; não é necessária instalação local de Python.
+
+PÚBLICO-ALVO
+Pode ser deixado em branco caso seja adotado o público-alvo padrão do Ocean. Se for desejável explicitar: "Estudantes, profissionais de saúde e tecnologia e interessados em aplicações de programação para saúde digital que já possuam conhecimentos básicos de Python."

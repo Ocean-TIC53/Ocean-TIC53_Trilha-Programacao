@@ -1,0 +1,32 @@
+TÍTULO DO EVENTO
+IA na Borda para Saúde Digital com Python e MicroPython
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso introdutório e prático de Inteligência Artificial na borda aplicado à Saúde Digital. A partir de um conjunto de dados totalmente sintético, os participantes irão treinar e avaliar no Google Colab um classificador supervisionado simples, exportar os parâmetros necessários para reproduzir a inferência e executar essa mesma lógica localmente em um ESP32-S3 com MicroPython. O encontro enfatiza a diferença entre treinamento e inferência, processamento em nuvem e na borda, e a comparação dos resultados obtidos no notebook e no microcontrolador. O exercício tem finalidade exclusivamente didática e não realiza diagnóstico, triagem ou validação clínica.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Conceitos de IA, aprendizado de máquina, Edge AI e TinyML;
+- Diferença entre treinamento, validação, teste, inferência e implantação;
+- Comparação entre processamento em nuvem e processamento na borda;
+- Preparação de dados sintéticos de Saúde Digital no Google Colab;
+- Separação treino/teste e padronização das entradas;
+- Treinamento de um classificador supervisionado linear de baixa complexidade;
+- Leitura de métricas básicas e análise de exemplos de erro;
+- Exportação de média, escala, pesos e termos independentes do modelo;
+- Implementação explícita da função de inferência em Python;
+- Uso de MicroPython e REPL no ESP32-S3;
+- Execução de inferência local e comparação Colab x ESP32-S3;
+- Discussão de latência, conectividade, privacidade, memória, consumo e confiabilidade;
+- Visão de continuidade para modelos quantizados, TensorFlow Lite Micro e ESP-DL.
+
+REQUISITOS
+Recomenda-se possuir noções básicas de Python; dataset, notebook-base e scripts serão fornecidos pelo instrutor. É necessário computador com navegador e acesso à Internet para uso do Google Colab. Para a etapa embarcada, será utilizado um ESP32-S3 com MicroPython previamente configurado pelo curso, além de cabo USB de dados e ferramenta de acesso ao REPL/transferência de arquivos.
+
+PÚBLICO-ALVO
+Estudantes, profissionais de saúde e tecnologia e interessados em programação aplicada à Saúde Digital que desejem compreender, de forma introdutória, como um modelo simples de IA pode ser treinado em Python e executado localmente em um microcontrolador.

@@ -1,0 +1,29 @@
+TÍTULO DO EVENTO
+HTML e CSS para Interfaces em Saúde Digital
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso prático e introdutório sobre criação de interfaces Web com HTML e CSS, contextualizado em Saúde Digital. Os participantes irão construir a interface estática e responsiva de um painel de monitoramento utilizando dados totalmente sintéticos. Serão trabalhados HTML semântico, tabelas, formulários visuais, seletores e classes CSS, box model, Flexbox, responsividade e princípios básicos de acessibilidade. O curso não utiliza JavaScript, React, Python ou backend, servindo como base independente e como ponte para a trilha de Frontend.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Papel do HTML, CSS e navegador em uma página Web;
+- Estrutura de um documento HTML e elementos semânticos;
+- Títulos, textos, seções, cartões, tabelas e formulários;
+- Seletores, classes, cores, tipografia, box model e espaçamento;
+- Organização de layout com Flexbox;
+- Introdução à responsividade com media query;
+- Testes no navegador e organização dos arquivos HTML/CSS;
+- Acessibilidade básica: rótulos, foco, contraste e alternativas ao uso exclusivo de cor;
+- Construção de um painel estático com dados sintéticos de Saúde Digital;
+- Relação dos fundamentos HTML/CSS com a continuidade em JavaScript/React.
+
+REQUISITOS
+Não há pré-requisitos formais. É necessário computador com navegador atualizado e acesso aos arquivos fornecidos pelo instrutor. Poderá ser utilizado editor HTML/CSS online ou editor de texto já disponível, sem necessidade de instalação obrigatória de ferramentas adicionais.
+
+PÚBLICO-ALVO
+Pode ser deixado em branco caso seja adotado o público-alvo padrão do Ocean. Se for desejável explicitar: "Estudantes, profissionais de saúde e tecnologia e demais interessados em iniciar o desenvolvimento de interfaces Web aplicadas à Saúde Digital."

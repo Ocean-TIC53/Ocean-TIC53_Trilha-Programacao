@@ -1,0 +1,30 @@
+TÍTULO DO EVENTO
+Fundamentos de Bancos de Dados SQL para Saúde Digital
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso introdutório e prático de bancos de dados relacionais e SQL contextualizado em Saúde Digital. Utilizando um ambiente SQL online compatível com SQLite, diretamente no navegador, os participantes irão modelar um pequeno banco com pacientes codificados, dispositivos e medições sintéticas, criar tabelas, inserir registros e realizar consultas para responder perguntas sobre o conjunto de dados. Serão trabalhados conceitos de tabelas, chaves, relacionamentos, integridade e operações SQL essenciais.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Diferença entre planilhas/CSV, bancos de dados e sistemas gerenciadores de bancos de dados;
+- Modelo relacional: tabelas, registros, campos e tipos de dados;
+- Chaves primárias, chaves estrangeiras e relacionamentos;
+- Noção prática de normalização e integridade dos dados;
+- Criação de tabelas com CREATE TABLE e restrições simples;
+- Inserção de registros com INSERT;
+- Consultas com SELECT, WHERE e ORDER BY;
+- Atualização e remoção de registros com UPDATE e DELETE;
+- Agregações básicas e GROUP BY;
+- Introdução a JOIN entre tabelas relacionadas;
+- Cuidados básicos de qualidade, privacidade e rastreabilidade de dados de saúde.
+
+REQUISITOS
+É necessário computador com navegador atualizado e acesso à Internet. As atividades serão realizadas em ambiente SQL online, sem necessidade de instalação de servidor de banco de dados.
+
+PÚBLICO-ALVO
+Estudantes, profissionais de saúde e tecnologia e demais interessados em compreender e utilizar bancos de dados relacionais e SQL em aplicações introdutórias de Saúde Digital.

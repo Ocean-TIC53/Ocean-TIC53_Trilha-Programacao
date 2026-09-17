@@ -1,0 +1,31 @@
+TÍTULO DO EVENTO
+Bancos de Dados SQL com Python para Saúde Digital
+
+TRILHA
+Programação
+
+CARGA HORÁRIA
+3h
+
+SOBRE O CURSO (BREVE DESCRIÇÃO)
+Curso prático de integração entre Python e bancos de dados SQL aplicado à Saúde Digital. Utilizando Google Colab, a biblioteca padrão sqlite3 e um banco SQLite com dados sintéticos fornecido pelo instrutor, os participantes irão abrir e inspecionar o banco, executar consultas, inserir, atualizar e remover registros e organizar operações recorrentes em funções Python. Os comandos SQL necessários são retomados durante o próprio encontro, permitindo a participação independente do curso anterior. O foco é compreender o fluxo Python -> SQL -> banco de dados e realizar operações seguras e parametrizadas sem necessidade de instalar um servidor de banco de dados.
+
+O QUE IRÁ APRENDER (TÓPICOS)
+- Papel do módulo sqlite3 na integração entre Python e bancos relacionais;
+- Criação e abertura de arquivos SQLite com sqlite3.connect();
+- Conexão, execução de comandos SQL e inspeção do banco;
+- Consultas SELECT e leitura dos resultados em Python;
+- Uso de filtros e parâmetros em consultas SQL;
+- Inserção de registros com INSERT;
+- Atualização e remoção com UPDATE e DELETE;
+- Uso de consultas parametrizadas em vez de concatenação de strings;
+- Commit e rollback em nível introdutório;
+- Organização de operações de banco em funções Python simples;
+- Tratamento básico de erros de integridade;
+- Cuidados de privacidade, integridade e rastreabilidade em dados de Saúde Digital.
+
+REQUISITOS
+Recomenda-se familiaridade básica com Python para melhor aproveitamento, mas o banco e os arquivos-base serão fornecidos e os comandos SQL necessários serão retomados durante o encontro. É necessário computador com navegador e acesso à Internet para uso do Google Colab; não é necessária instalação de servidor de banco de dados ou biblioteca adicional.
+
+PÚBLICO-ALVO
+Estudantes, profissionais de saúde e tecnologia e interessados em utilizar Python para consultar e manipular bancos de dados relacionais em aplicações introdutórias de Saúde Digital.
