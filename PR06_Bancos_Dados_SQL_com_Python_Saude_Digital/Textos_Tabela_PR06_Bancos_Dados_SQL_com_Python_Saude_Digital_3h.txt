@@ -25,7 +25,7 @@ O QUE IRÁ APRENDER (TÓPICOS)
 - Cuidados de privacidade, integridade e rastreabilidade em dados de Saúde Digital.
 
 REQUISITOS
-Recomenda-se familiaridade básica com Python para melhor aproveitamento, mas o banco e os arquivos-base serão fornecidos e os comandos SQL necessários serão retomados durante o encontro. É necessário computador com navegador e acesso à Internet para uso do Google Colab; não é necessária instalação de servidor de banco de dados ou biblioteca adicional.
+Recomenda-se familiaridade básica com Python para melhor aproveitamento, mas o banco e os arquivos-base serão fornecidos e os comandos SQL necessários serão retomados durante o encontro. É necessário computador com navegador e acesso à Internet para uso do Google Colab.
 
 PÚBLICO-ALVO
 Estudantes, profissionais de saúde e tecnologia e interessados em utilizar Python para consultar e manipular bancos de dados relacionais em aplicações introdutórias de Saúde Digital.

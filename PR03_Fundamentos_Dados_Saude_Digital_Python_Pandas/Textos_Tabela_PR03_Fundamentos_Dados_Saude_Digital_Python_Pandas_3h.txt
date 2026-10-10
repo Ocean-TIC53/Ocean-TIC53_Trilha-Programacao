@@ -23,7 +23,7 @@ O QUE IRÁ APRENDER (TÓPICOS)
 - Cuidados de qualidade, privacidade e limites de interpretação de dados de saúde.
 
 REQUISITOS
-Conhecimentos básicos de Python, incluindo variáveis, condicionais, laços, funções, listas e dicionários. Recomenda-se participação prévia no PR-02 - Aprendendo a Programar em Python para Saúde Digital ou conhecimentos equivalentes. É necessário computador com navegador e acesso à Internet.
+Conhecimentos básicos de Python, incluindo variáveis, condicionais, laços, funções, listas e dicionários. Recomenda-se participação prévia no curso "Aprendendo a Programar em Python para Saúde Digital" ou conhecimentos equivalentes. É necessário computador com navegador e acesso à Internet.
 
 PÚBLICO-ALVO
 Estudantes, profissionais de saúde e tecnologia e interessados em organizar, manipular e analisar dados tabulares de Saúde Digital utilizando Python e Pandas.

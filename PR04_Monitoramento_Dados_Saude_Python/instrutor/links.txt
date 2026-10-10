@@ -1,0 +1,11 @@
+Google Colab
+https://colab.research.google.com/
+
+Firebase
+Link para o navegador
+https://console.firebase.google.com/u/0/project/oficina-python-saude-teste/database/oficina-python-saude-teste-default-rtdb/data/~2F
+Link para o código
+https://oficina-python-saude-teste-default-rtdb.firebaseio.com/
+
+Google Drive (leitura)
+https://drive.google.com/drive/folders/1E9b1Lwt3am7QmKsQM-t1VLBO3VT5u6TP?usp=sharing
