@@ -25,3 +25,14 @@ venv/
 
 # Arquivos temporários diversos
 *.log
+
+# Chaves administrativas do Firebase / Google Cloud
+*firebase-adminsdk*.json
+*chave-privada*.json
+*service-account*.json
+*service_account*.json
+
+# Credenciais locais (nunca versionar)
+credenciais-ocean/
+.env
+.env.*
