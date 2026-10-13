@@ -187,6 +187,19 @@ O conteúdo terá uma estrutura semelhante a:
 
 Esse arquivo é uma **credencial administrativa**.
 
+### Armazenamento separado do Git
+
+Guarde o JSON real nu pasta `credenciais-ocean do repositório` com o nome `conta-servico-firebase.json`. Essa pasta e o nome original
+`oficina-python-saude-teste-firebase-adminsdk-chave-privada.json` é
+bloqueado pelo `.gitignore`, mas a exclusão do Git **não** protege
+chaves que já foram incluídas em commits anteriores.
+
+Para usar o publicador no Google Colab, abra **Secrets** (ícone de chave),
+crie `FIREBASE_SERVICE_ACCOUNT_JSON`, cole o conteúdo **da nova chave JSON**
+e habilite o acesso do notebook ao Secret. O notebook do instrutor já lê
+a credencial dessa forma e não precisa de alteração de código.
+
+
 ### Muito importante
 
 Não deve ser:
